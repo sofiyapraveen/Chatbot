@@ -16,3 +16,4 @@ DESCRIPTION: The Chatbot application is built using React for a dynamic, compone
 
 
 # OUTPUT OF THE TASK
+![Image](https://github.com/user-attachments/assets/45abe023-8f02-448c-ad31-e9de012dade5)
